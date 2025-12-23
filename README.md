@@ -1,4 +1,4 @@
-# Flask 🚀--made-easy
+# Flask 🚀- made-easy
 Learn or refresh your Flask (web-framework) knowledge! using simple Python 
 <h2>Topics covered (Basic - Advance):</h2>
 💠Intro to Flask <br>
@@ -12,11 +12,11 @@ Learn or refresh your Flask (web-framework) knowledge! using simple Python
   
 <h2>Intro to course:</h2>
 Hey there!<br>
-Welcome to my <i>Flask-made easy</i> course. I prepared this course specially for those who want to learn or revise <b>AI web development</b> using Flask Python. With the help of <b>ChatGPT</b> (acc. to whom) <i><b>"This course is better than one in Cousera.com!"</b></i>.This course prepares individual for his/her future:<br>
+Welcome to my <i>Flask-made easy</i> repo! <br>I prepared this repository specially for those who want to learn or refresh<b>AI web development</b> using Flask Python. With the help of <b>ChatGPT</b> (acc. to whom) <i><b>"This step-by-step approach is better than one in Cousera.com!"</b></i>.This course will help individual for his/her future:<br>
   Internships , Freelancing , Online tutoring <b>Flask-python</b>.
 
-<h2>Time-duration of course:</h2>
-One can master Flask in:  <b>8 days | 2 hr/day </b>
+<h2>Time-duration:</h2>
+One can master Flask in:  <b>6 days | 2 hr/day </b>
 <h2>Prerequisites:</h2>
 In order to start this course, you need to know:<br>
 ◾<b>Basic python-language</b> <br>
